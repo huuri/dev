@@ -1,2 +1,3 @@
-on rightclick holding a blaze rod
- send "ブレイズロッドを持って、右クリックした。" to player
+on rightclick holding a diamond sword
+    push the player upwards at speed 0.5
+    shoot an arrow at speed 1
