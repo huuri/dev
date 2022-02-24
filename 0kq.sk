@@ -1,3 +1,1 @@
-on rightclick holding a blaze rod:
-  send "test message" to player
-
+test
